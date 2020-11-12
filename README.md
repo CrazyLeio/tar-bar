@@ -1,6 +1,6 @@
 # tar-bar
 
-> A Vue.js project
+> Tarbar implemented by vuejs
 
 ## Build Setup
 
